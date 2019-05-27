@@ -2,6 +2,30 @@
 Some alfredworkflow files about Alfred3 and its show, [download Alfred3.x](https://xclient.info/s/alfred.html#versions)
 
 
+## workflows
+- Audio Recording.alfredworkflow  # record 快速打开录音
+- Chrome Bookmarks.alfredworkflow # ,b  搜索浏览器标签页
+- Colors.alfredworkflow  # colors  前端颜色
+- Dash.alfredworkflow  # Dash 离线文档
+- Display Brightness.alfredworkflow  # brightness  调整屏幕亮度
+- GitHub.alfredworkflow  # 'gh' or 'gh my' or 'gh @' 快速搜索并进入github相关页
+- Gitmoji.alfredworkflow  # gm  git commit时可使用的emoji :)
+- IP Address v1.2.0.alfredworkflow # ip  快速显示内网与外网ip地址
+- Linux.Command.alfredworkflow # lc 快速搜索linux command
+- Launch in 3 browsers.alfredworkflow # test URL 在chrome, firefox, safari同时打开URL页面
+- Mail.app Search.alfredworkflow # em or ... 搜索邮件
+- Search.alfredworkflow  # ⌃s  快速搜索你已经选中的内容
+- Show Desktop.alfredworkflow # show 快速显示空桌面
+- StackOverflow.alfredworkflow # .so TEXT 进入stackoverflow搜索内容
+- Sublime Text v1.1.alfredworkflow # 'subl' or 'subl***\* FILE' 使用subl模糊搜索并打开FILE文件
+- V2EX.alfredworkflow # v2ex n  show v2ex当前内容
+- Youdao.alfredworkflow # yd TEXT 使用Youdao进行翻译TEXT
+- faker.alfredworkflow # faker 伪造一个地址或者人名...
+- newfile.alfredworkflow # nf 在Findler快速创建文件
+- terminalfinder.alfredworkflow # 'tf' or 'ft' Finder <=> iterm
+![workflows.gif](./gifs/workflows.gif)
+
+
 
 ## Alfred introduction
 ###  快捷键
@@ -105,28 +129,3 @@ Some alfredworkflow files about Alfred3 and its show, [download Alfred3.x](https
 
   ![terminal.gif](./gifs/terminal.gif)
 
-## workflows
-
-- Audio Recording.alfredworkflow
-- Chrome Bookmarks.alfredworkflow
-- Colors.alfredworkflow
-- Dash.alfredworkflow
-- Display Brightness.alfredworkflow
-- DuckDuckGo with Auto Suggestion.alfredworkflow
-- GitHub.alfredworkflow
-- Gitmoji.alfredworkflow
-- IP Address v1.2.0.alfredworkflow
-- Launch in 3 browsers.alfredworkflow
-- Mail.app Search.alfredworkflow
-- Search.alfredworkflow
-- Show Desktop.alfredworkflow
-- StackOverflow.alfredworkflow
-- Sublime Text v1.1.alfredworkflow
-- V2EX.alfredworkflow
-- Youdao.alfredworkflow
-- caffeinate.alfredworkflow
-- faker.alfredworkflow
-- moment.alfredworkflow
-- network_info.alfredworkflow
-- newfile.alfredworkflow
-- terminalfinder.alfredworkflow
