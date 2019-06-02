@@ -2,7 +2,7 @@
 Some alfredworkflow files about Alfred3 and its show, [download Alfred3.x](https://xclient.info/s/alfred.html#versions)
 
 
-## workflows
+## [Download this](./workflows) workflows
 - Audio Recording.alfredworkflow  # record 快速打开录音
 - Chrome Bookmarks.alfredworkflow # ,b  搜索浏览器标签页
 - Colors.alfredworkflow  # colors  前端颜色
