@@ -125,4 +125,6 @@ Some alfredworkflow files about Alfred3 and its show, [download Alfred3.x](https
 
 
 ## Workflows
-![alfred3_workflows_introduction](./gifs/alfred3_workflows_introduction.mp4)
+Download the [alfred3_workflows_introduction.mp4](./mp4/alfred3_workflows_introduction.mp4) (15.2MB)
+
+![alfred3_workflows_introduction](./gifs/alfred3_workflows_introduction.gif)
