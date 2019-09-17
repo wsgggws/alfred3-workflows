@@ -1,5 +1,7 @@
 # alfred3-workflows
-Some alfredworkflow files about Alfred3 and its show, [download Alfred3.x](https://xclient.info/s/alfred.html#versions)
+Some alfred3 workflow files and its show, [download Alfred3.x](https://xclient.info/s/alfred.html#versions)
+
+工欲善其事, 必先利其器, Macos里配合Alfred3就如行云流水, 秀得令人怡然自得, 无法自拔, 最后离不开它.
 
 
 ## [Download this](./workflows) workflows
@@ -17,7 +19,9 @@ Some alfredworkflow files about Alfred3 and its show, [download Alfred3.x](https
 - V2EX.alfredworkflow # v2ex n  show v2ex当前内容
 - Youdao.alfredworkflow # yd TEXT 使用Youdao进行翻译TEXT
 - terminalfinder.alfredworkflow # 'tf' or 'ft' Finder <=> iterm
-![workflows.gif](./gifs/workflows.gif)
+
+![alfred3_workflows_introduction](./gifs/alfred3_workflows_introduction.gif)
+Download the [alfred3_workflows_introduction.mp4](./mp4/alfred3_workflows_introduction.mp4) (15.2MB)
 
 
 
@@ -122,9 +126,3 @@ Some alfredworkflow files about Alfred3 and its show, [download Alfred3.x](https
 - 使用`> COMMAND`快速在Iterm2输入命令行
 
   ![terminal.gif](./gifs/terminal.gif)
-
-
-## Workflows
-Download the [alfred3_workflows_introduction.mp4](./mp4/alfred3_workflows_introduction.mp4) (15.2MB)
-
-![alfred3_workflows_introduction](./gifs/alfred3_workflows_introduction.gif)
