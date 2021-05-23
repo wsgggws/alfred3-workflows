@@ -1,22 +1,19 @@
 # alfred3-workflows
 Some alfred3 workflow files and its show, [download Alfred3.x](https://xclient.info/s/alfred.html#versions)
 
-工欲善其事, 必先利其器, Macos里配合Alfred3就如行云流水, 秀得令人怡然自得, 无法自拔, 最后离不开它.
+工欲善其事, 必先利其器。
 
 
 ## [Download this](./workflows) workflows
 - Audio Recording.alfredworkflow  # record 快速打开录音
 - Chrome Bookmarks.alfredworkflow # ,b  搜索浏览器标签页
-- Display Brightness.alfredworkflow  # brightness  调整屏幕亮度
 - GitHub.alfredworkflow  # 'gh' or 'gh my' or 'gh @' 快速搜索并进入github相关页
 - Gitmoji.alfredworkflow  # gm  git commit时可使用的emoji :)
 - IP Address v1.2.0.alfredworkflow # ip  快速显示内网与外网ip地址
-- Launch in 3 browsers.alfredworkflow # test URL 在chrome, firefox, safari同时打开URL页面
-- Mail.app Search.alfredworkflow # em or ... 搜索邮件
 - Search.alfredworkflow  # ⌃s  快速搜索你已经选中的内容
 - StackOverflow.alfredworkflow # .so TEXT 进入stackoverflow搜索内容
 - Sublime Text v1.1.alfredworkflow # 'subl' or 'subl***\* FILE' 使用subl模糊搜索并打开FILE文件
-- V2EX.alfredworkflow # v2ex n  show v2ex当前内容
+- CodeVar  # 变量命名建议
 - Youdao.alfredworkflow # yd TEXT 使用Youdao进行翻译TEXT
 - terminalfinder.alfredworkflow # 'tf' or 'ft' Finder <=> iterm
 
@@ -36,7 +33,7 @@ Download the [alfred3_workflows_introduction.mp4](./mp4/alfred3_workflows_introd
   ![shortcut.gif](./gifs/shortcut.gif)
 
 ### Default Results
-- 打开各种已经安装的app, 及系统自带的如Contacts, System Preferences
+- 打开各种已经安装的app, 及系统自带的如System Preferences
 
 - 在Finder打开Folders, 默认编辑器打开Text Files
 
@@ -100,12 +97,6 @@ Download the [alfred3_workflows_introduction.mp4](./mp4/alfred3_workflows_introd
 
   ![snippets.gif](./gifs/snippets.gif)
 
-### iTunes
-- 目前还没有使用
-
-### 1Password
-- 目前没有使用
-
 ### System
 - 如锁屏`lock`, 睡眠`sleep`, 重启`restart`, 关机`shutdown` 清空回收站`em`等命令快捷键
 
@@ -115,10 +106,6 @@ Download the [alfred3_workflows_introduction.mp4](./mp4/alfred3_workflows_introd
 
   ![system.gif](./gifs/system.gif)
 
-  
-
-### Large Type
-- 可设置字体大小，显示大小
 
 ### Terminal/Shell
 - 配置使用Iterm2代替Terminal
